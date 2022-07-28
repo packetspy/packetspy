@@ -36,15 +36,12 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/packetspy/packetspy/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/packetspy/packetspy/blob/output/snake.svg" alt="My snake flow =)" />
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/packetspy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=packetspy&count=3" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-Profile Readme Generator
