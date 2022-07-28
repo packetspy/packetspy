@@ -36,7 +36,9 @@
 
 <br clear="both">
 
-<img href="[https://raw.githubusercontent.com/packetspy/packetspy/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/packetspy/packetspy/output/github-contribution-grid-snake.svg)" alt="My snake flow =)" />
+
+
+![My snake flow =)](https://raw.githubusercontent.com/packetspy/packetspy/output/github-contribution-grid-snake.svg)
 
 ###
 
