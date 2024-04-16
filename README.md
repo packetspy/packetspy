@@ -1,7 +1,10 @@
 <h2 align="left">Hello!</h2>
+
 ###
 
 <p align="left">I'm a Software Developer turning coffee into code =)</p>
+
+###
 
 ###
 
@@ -21,7 +24,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/tomazeto/" target="_blank">
+  <a href="https://www.linkedin.com/in/tomazeto/" target="blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linkedin"  />
   </a>
 </div>
@@ -30,6 +33,6 @@
 
 <br clear="both">
 
-![My snake flow =)](https://raw.githubusercontent.com/packetspy/packetspy/output/github-contribution-grid-snake.svg)
+![My contributions](https://github.com/packetspy/packetspy/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
