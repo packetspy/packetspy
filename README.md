@@ -1,6 +1,7 @@
-<h2 align="left">Turning coffee into code =)</h2>
+<h2 align="left">Hi!</h2>
 
 ###
+<p>Turning coffee into code and problems into solutions</p>
 <p align="left">I'm a Software Developer with over 𝟭𝟬 𝘆𝗲𝗮𝗿𝘀 of experience as a developer and nearly 𝟮𝟬 𝘆𝗲𝗮𝗿𝘀 in the technology sector, I bring knowledge and expertise to every project I undertake.
 My stack includes C#, .NET, .NET Core, Asp.NET, Xamarin, MAUI, Typescript, Javascript, VueJs, and React.</p>
 
